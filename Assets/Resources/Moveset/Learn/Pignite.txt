@@ -1,0 +1,18 @@
+Ember:1
+Odor Sleuth:1
+1	Tackle:1
+1	Tail Whip:1
+7	Ember:7
+9	Odor Sleuth:9
+13	Defense Curl:13
+15	Flame Charge:15
+17	Arm Thrust:17
+20	Smog:20
+23	Rollout:23
+28	Take Down:28
+31	Heat Crash:31
+36	Assurance:36
+39	Flamethrower:39
+44	Head Smash:44
+47	Roar:47
+52	Flare Blitz:52

@@ -1,0 +1,17 @@
+Confusion:1
+Focus Energy:1
+Incinerate:1
+Quick Attack:1
+Searing Shot:1
+Endure:9
+Headbutt:17
+Flame Charge:25
+Reversal:33
+Flame Burst:41
+Zen Headbutt:49
+Inferno:57
+Double-Edge:65
+Flare Blitz:73
+Final Gambit:81
+Stored Power:89
+OVerheat:97

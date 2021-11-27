@@ -1,0 +1,18 @@
+1	Leer:1
+1	Tackle:1
+1	Vine Whip:1
+1	Wrap:1
+4	Leer:4
+7	Vine Whip:7
+10	Wrap:10
+13	Growth:13
+16	Leaf Tornado:16
+20	Leech Seed:20
+24	Mega Drain:24
+28	Slam:28
+32	Leaf Blade:32
+38	Coil:38
+44	Giga Drain:44
+50	Wring Out:50
+56	Gastro Acid:56
+62	Leaf Storm:62

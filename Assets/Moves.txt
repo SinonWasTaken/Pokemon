@@ -1,0 +1,6 @@
+0          1                                                                                           2      3      4  5 6 7  8  9  10 11  12  13 14 15  16 17 18 19 20 21
+Acid Armor:The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.:Poison:Status:40:0:0:Def:2:100:0:Self:No:No:No:Yes:No:No:No:No:No:No
+Acid Spray:The user spits fluid that works to melt the target. This harshly reduces the target's Sp. Def stat.:Poison:Special:20:40:100:Def:-2:100:0:Target:No:No:No:No:No:No:No:No:Yes:Yes
+Acrobatics:The user nimbly strikes the target. If the user is not holding an item, this attack inflicts massive damage.:Flying:Physical:15:55:100:Unique:0:100:0:Target:Yes:No:No:No:No:No:Yes:No:Yes:Yes
+Acupressure:The user applies pressure to stress points, sharply boosting one of its stats.:Normal:Status:30:0:0:RandomStat:2:100:0:Self:No:No:No:No:No:No:No:No:No:No
+Aerial Ace:The user confounds the target with speed, then slashes. The attack lands without fail.:Flying:Physical:20:60:0:NoMiss:0:100:0:Target:Yes:No:No:No:No:No:Yes:No:Yes:Yes
