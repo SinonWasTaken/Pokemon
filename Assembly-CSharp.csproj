@@ -55,10 +55,10 @@
      <Compile Include="Assets\Scripts\Data\PokemonData.cs" />
      <Compile Include="Assets\Scripts\Data\MoveData.cs" />
      <Compile Include="Assets\Scripts\Move.cs" />
+     <Compile Include="Assets\Scripts\Pokemon\Generate Pokemon.cs" />
      <Compile Include="Assets\Scripts\Database\MoveDatabase.cs" />
      <Compile Include="Assets\Scripts\Database\PokemonDatabase.cs" />
      <Compile Include="Assets\Scripts\Pokemon\Pokemon.cs" />
-     <Compile Include="Assets\Scripts\Pokemon\Generate Pokemon.cs" />
      <None Include="Assets\Moves.txt" />
      <None Include="Assets\Resources\Moveset\Learn\Snivy.txt" />
      <None Include="Assets\Resources\Moveset\Egg\Tepig.txt" />
@@ -80,6 +80,7 @@
      <None Include="Assets\Resources\Moveset\Learn\Victiny.txt" />
      <None Include="Assets\Resources\Moveset\Tutor\Tepig.txt" />
      <None Include="Assets\Resources\Moveset\HM\Servine.txt" />
+     <None Include="Assets\todo.txt" />
      <None Include="Assets\Resources\Moveset\Pignite.txt" />
      <None Include="Assets\Resources\Moveset\Egg\Snivy.txt" />
      <None Include="Assets\Resources\Moveset\TM\Serperior.txt" />

@@ -1,0 +1,19 @@
+find all the info for all moves in the game
+    Some moves are currently missing their effects data. Get that, and make a constructor to take in the appropriate amount of detail, if one doesnt already exist
+    
+Move it missing basically all of its data.
+    
+Find all the information on each pokemon.
+    PokemonData does not have a class that stores the pokemons entire moveset. Create that soon
+    Pokemon does not have an array of 4 moves for the pokemon to use. It is also missing alot of its methods. No exp, leveling or move finding.
+    
+The pokemon generation class needs alot of work. Only one constructor, and it does absolutely nothing.
+
+No day care system. Should generate egss, and give each pokemon exp each second its inside, until I figure out a way to record players footsteps. 
+    Probably need colliders on the bottom of the feet.
+    
+Mart system doesnt exists. Have seperate menus players can buy from, depending on how many badges they have.
+
+Poke center doesnt exist.
+
+Items don't exist. Need the data classes. Pokemon ball, Healing items and items that pokemon can hold are the only items that will have seperate classes.
