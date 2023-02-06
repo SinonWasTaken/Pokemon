@@ -1,0 +1,20 @@
+﻿Arm Thrust:1
+Ember:1
+Hammer Arm:1
+Odor Sleuth:1
+Tackle:1
+Tail Whip:1
+Tail Whip:3
+Ember:7
+Odor Sleuth:9
+Defense Curl:13
+Flame Charge:15
+Smog:20
+Rollout:23
+Take Down:28
+Heat Crash:31
+Assurance:38
+Flamethrower:43
+Head Smash:50
+Roar:55
+Flare Blitz:62

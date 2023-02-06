@@ -1,0 +1,18 @@
+Leer:1
+Tackle:1
+Vine Whip:1
+Wrap:1
+Leer:4
+Vine Whip:7
+Wrap:10
+Growth:13
+Leaf Tornado:16
+Leech Seed:20
+Mega Drain:24
+Slam:28
+Leaf Blade:32
+Coil:38
+Giga Drain:44
+Wring Out:50
+Gastro Acid:56
+Leaf Storm:62

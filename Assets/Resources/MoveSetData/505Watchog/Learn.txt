@@ -1,0 +1,19 @@
+﻿Bite:1
+Leer:1
+Low Kick:1
+Tackle:1
+Leer:#
+Bite:6
+Bide:8
+Detect:11
+Sand-Attack:13
+Crunch:16
+Hypnosis:18
+Confuse Ray:20
+Super Fang:22
+After You:25
+Psych Up:29
+Hyper Fang:32
+Mean Look:36
+Baton Pass:39
+Slam:43

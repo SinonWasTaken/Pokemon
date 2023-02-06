@@ -52,7 +52,6 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Editor\PokemonEditor.cs" />
      <Compile Include="Assets\Editor\PokemonDatabaseEditor.cs" />
  <Reference Include="UnityEngine">
  <HintPath>D:/UnityEditor/2020.3.23f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

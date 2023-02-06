@@ -1,0 +1,15 @@
+﻿Tackle:1
+Leer:1
+Bite:6
+Bide:8
+Detect:11
+Sand-Attack:13
+Crunch:16
+Hypnosis:18
+Super Fang:21
+After You:23
+Work Up:26
+Hyper Fang:28
+Mean Look:31
+Baton Pass:33
+Slam:36

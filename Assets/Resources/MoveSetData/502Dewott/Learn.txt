@@ -1,0 +1,18 @@
+﻿Tackle:1
+Tail Whip:1
+Water Gun:1
+Water Sport:1
+Tail Whip:5
+Water Gun:7
+Water Sport:11
+Focus Energy:13
+Razor Shell:17
+Fury Cutter:20
+Water Pulse:25
+Revenge:28
+Aqua Jet:33
+Encore:36
+Aqua Tail:41
+Retaliate:44
+Swords Dance:49
+Hydro Pump:52

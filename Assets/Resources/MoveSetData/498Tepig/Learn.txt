@@ -1,0 +1,15 @@
+Tackle:1
+Tail Whip:3
+Ember:7
+Odor Sleuth:9
+Defense Curl:13
+Flame Charge:15
+Smog:19
+Rollout:21
+Take Down:25
+Heat Crash:27
+Assurance:31
+Flamethrower:33
+Head Smash:37
+Roar:39
+Flare Blitz:43

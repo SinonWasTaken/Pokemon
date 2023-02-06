@@ -1,19 +1,27 @@
 find all the info for all moves in the game
     Some moves are currently missing their effects data. Get that, and make a constructor to take in the appropriate amount of detail, if one doesnt already exist
-    
-Move it missing basically all of its data.
-    
-Find all the information on each pokemon.
-    PokemonData does not have a class that stores the pokemons entire moveset. Create that soon
-    Pokemon does not have an array of 4 moves for the pokemon to use. It is also missing alot of its methods. No exp, leveling or move finding.
-    
-The pokemon generation class needs alot of work. Only one constructor, and it does absolutely nothing.
 
-No day care system. Should generate egss, and give each pokemon exp each second its inside, until I figure out a way to record players footsteps. 
+No day care system. Should generate eggs, and give each pokemon exp each second its inside, until I figure out a way to record players footsteps. 
     Probably need colliders on the bottom of the feet.
     
-Mart system doesnt exists. Have seperate menus players can buy from, depending on how many badges they have.
+Mart system doesnt exists. Have separate menus players can buy from, depending on how many badges they have.
 
-Poke center doesnt exist.
+TODO Dialogue
+    Not sure where, but I broke this. Dialogue Lines arent being displayed properly, and the dialogue and be combined to form strange text
 
-Items don't exist. Need the data classes. Pokemon ball, Healing items and items that pokemon can hold are the only items that will have seperate classes.
+TODO Pokemon center
+    The pokemon center straight up doesnt exist. Fix that
+
+TODO Items
+    Currently only the pokeball and recovery items have a class. Implement the other item types
+   
+TODO Player Party Editor
+    Currently when looking at the player's party, it only shows the pokemon data. Show the entire pokemon or egg instead
+   
+TODO Pokemon class
+    Once a pokemon levels up, check if they can learn a new move, and if the pokemon can, prompt the player to choose whether they will or not.
+    
+TODO Controls
+    Only have a few controls set up for a controller
+        Add support for a keyboard
+        Add controller support for any menu 
